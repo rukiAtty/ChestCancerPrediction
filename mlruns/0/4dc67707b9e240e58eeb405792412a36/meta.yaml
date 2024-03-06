@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rla/OneDrive%20-%20Tiqri%20Corporation%20Pte%20Ltd/Desktop/1.Demo/ChestCancerPrediction/mlruns/0/4dc67707b9e240e58eeb405792412a36/artifacts
+end_time: 1709716059607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dc67707b9e240e58eeb405792412a36
+run_name: spiffy-lamb-879
+run_uuid: 4dc67707b9e240e58eeb405792412a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709716050293
+status: 3
+tags: []
+user_id: rla

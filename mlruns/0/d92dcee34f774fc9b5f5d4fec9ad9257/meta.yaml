@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rla/OneDrive%20-%20Tiqri%20Corporation%20Pte%20Ltd/Desktop/1.Demo/ChestCancerPrediction/mlruns/0/d92dcee34f774fc9b5f5d4fec9ad9257/artifacts
+end_time: 1709715356567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d92dcee34f774fc9b5f5d4fec9ad9257
+run_name: likeable-dove-756
+run_uuid: d92dcee34f774fc9b5f5d4fec9ad9257
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709715343855
+status: 3
+tags: []
+user_id: rla
